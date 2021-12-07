@@ -1,11 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:quant-ph'
 
 # 検索キーワード
 keywords:
-        Learning: 3
-        resnet: 3
-        anomaly detection: 1
+        Learning: 1
+        quantum: 1
+        algorithm: 1
+        computation: 1
+        qubit: 1
+        error: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
