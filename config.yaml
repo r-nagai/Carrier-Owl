@@ -1,9 +1,9 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*　OR cat:hep.ph'
+subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
+        Learning: 3
         resnet: 3
         anomaly detection: 1
 
