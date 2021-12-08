@@ -1,11 +1,17 @@
 # arxivの学問領域の指定
-subject: 'cat:hep-ph'
+subject: 'cat:quant-ph'
 
 # 検索キーワード
 keywords:
-    unitarity: 3
-    dark matter: 3
-    higgs: 3
+    quantum: 1
+    error: 1
+    noise: 1
+    qubit: 1
+    computer: 1
+    computation: 1
+    silicon: 1
+    NISQ: 1
+    algorithm: 1
 
 # 通知の閾値
 score_threshold: 0
