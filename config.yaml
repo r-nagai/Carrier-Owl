@@ -3,7 +3,6 @@ subject: 'cat:quant-ph'
 
 # 検索キーワード
 keywords:
-    quantum: 1
     error: 1
     noise: 1
     qubit: 1
@@ -14,4 +13,4 @@ keywords:
     algorithm: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
